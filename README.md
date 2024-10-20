@@ -12,6 +12,10 @@ This project is developed as part of the **DS522_01_ON: Data Acquisition and Ana
 
 This study investigates the connections between NBA player salaries, shooting performance, and various performance metrics. By analyzing two datasets, one focused on player statistics and salaries and the other on shot data, our goal is to uncover correlations between shooting proficiency, total shots taken, and player compensation. Additional performance factors, such as assists, rebounds, and player efficiency, are also considered. The data acquisition, cleaning, and visualization processes are conducted using Python and Power BI. The outcomes of this analysis offer insights into how player performance impacts salary structures within the NBA.
 
+## **Datasets**
+- Mexwell. (n.d.). NBA Shots [Dataset]. Kaggle. https://www.kaggle.com/datasets/mexwell/nba-shots (Retrieved October 2024).
+- Thedevastator. (2019). NBA Players Performance and Salaries [Dataset]. Kaggle. https://www.kaggle.com/datasets/thedevastator/exploring-nba-player-performance-and-salaries-19 (Retrieved October 2024).
+
 ## **Acknowledgments**
 
 We would like to thank our instructor, **Professor Catherine Ata**, and **City University of Seattle** for providing the resources and guidance needed to complete this project.
